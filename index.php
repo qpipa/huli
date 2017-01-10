@@ -1,4 +1,5 @@
 <?php
-echo 'huli';
-//init.php
-/**ddeeeddd*/
+echo 'huli_d';
+//init.pp
+/**ddddd*/
+
