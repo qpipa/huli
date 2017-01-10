@@ -1,2 +1,2 @@
 <?php
-//init
+//init_af
