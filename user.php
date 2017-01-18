@@ -6,6 +6,9 @@
 //init _user.php 20170118
 
 
-
+/**
+test
+*/
 fucntion test($part=''){
+
 }
