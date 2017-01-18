@@ -2,4 +2,5 @@
 //init_af
 //ddeeee
 /**e*/
-phpinfo();
+phpinfo();//add from fixbug2 20170117
+
