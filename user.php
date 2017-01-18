@@ -3,7 +3,7 @@
 @liangji
 2017-01-17 1909090
 */
-//init user.php
+//init _user.php
 
 
 
