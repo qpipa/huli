@@ -7,5 +7,5 @@
 
 
 
-fucntion test(){
+fucntion test($part=''){
 }
